@@ -3,9 +3,11 @@
   }
 
 .skip-link {
-    display: none;
-  }
-  
-.skip-link:focus {
-    display: block;
-  }
+    transform: translateY(-100%);
+    position: absolute;
+    left: 50%;
+ }
+ 
+.skip-link:focus-within {
+    transform: translateY(0);
+ }
