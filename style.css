@@ -1,6 +1,11 @@
 .para {
     font-size: 10px;
-}
-.header {
-    background-color: : ;
-}
+  }
+
+.skip-link {
+    display: none;
+  }
+  
+.skip-link:focus {
+    display: block;
+  }
