@@ -19,5 +19,9 @@
  header {
    padding: 8px;
    background: var(--color-a); 
+   display: flex;
  }
 
+ .site-navigation {
+   display: flex;
+ }
