@@ -25,3 +25,34 @@
  .site-navigation {
    display: flex;
  }
+
+ .main-menu {
+	display: flex;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	position: relative;
+}
+
+.main-menu > li {
+	padding: 10px 16px;
+	min-width: 120px;
+	cursor: pointer;
+}
+
+.main-menu li:hover > .sub-menu {
+	display: block;
+}
+
+.sub-menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: none;
+	position: relative;
+	background: #cccccc;
+}
+
+.sub-menu li {
+	padding: 10px 16px;
+}
