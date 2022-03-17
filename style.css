@@ -11,3 +11,11 @@
 .skip-link:focus-within {
     transform: translateY(0);
  }
+
+ body {
+   margin: 0px;
+ }
+
+ header {
+   padding: 8px;
+ }
