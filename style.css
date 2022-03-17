@@ -61,3 +61,10 @@
 .site-logo img {
   max-width: 200px;
 }
+
+:root .dark {
+  --color-a: #111;
+}
+:root .light {
+  --color-a: #ccc;
+}
