@@ -41,7 +41,7 @@
 	cursor: pointer;
 }
 
-.main-menu li:hover > .sub-menu {
+.main-menu li:hover > .sub-menu-1 {
 	display: block;
 }
 
