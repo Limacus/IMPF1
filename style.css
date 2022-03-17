@@ -20,9 +20,10 @@
    padding: 8px;
    background: var(--color-a); 
    display: flex;
+   justify-content: space-between;
  }
 
- .site-navigation {
+ .site-navigation > ul{
    display: flex;
  }
 
