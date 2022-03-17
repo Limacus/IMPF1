@@ -44,7 +44,7 @@
 	display: block;
 }
 
-.sub-menu {
+.sub-menu-1 {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -53,6 +53,6 @@
 	background: #cccccc;
 }
 
-.sub-menu li {
+.sub-menu-1 li {
 	padding: 10px 16px;
 }
