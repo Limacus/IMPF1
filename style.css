@@ -17,7 +17,6 @@
  }
 
  .header {
-   padding: 0 20px;
    background: var(--blue); 
    display: flex;
    justify-content: space-between;
