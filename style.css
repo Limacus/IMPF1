@@ -22,7 +22,6 @@
    display: flex;
    justify-content: space-between;
    width: 100%;
-   height: 50%;
  }
 
  .site-navigation > ul{
@@ -74,3 +73,26 @@
 .header li a {
 	font-size: 18px;
 }
+
+@font-face {
+	font-family: f1;
+	src: url('fonts/Formula1-Regular.otf');
+	font-weight: normal;
+	font-display: swap;
+  }
+  
+  @font-face {
+	font-family: f1;
+	src: url('fonts/Formula1-Bold.otf');
+	font-weight: bold;
+	font-display: swap;
+  }
+
+  .test-1 {
+	  font-family: f1;
+  }
+
+  .test-2 {
+	  font-family: f1;
+	  font-weight: bold;
+  }
