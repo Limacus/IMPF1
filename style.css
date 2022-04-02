@@ -66,6 +66,17 @@
 	top: 67px;
 }
 
+.sub-menu-1 a {
+	color: #fff;
+  transition: .25s ease padding-left;
+  background: #333;
+  border-bottom: 1px solid rgba(255,255,255,0.25);
+}
+
+sub-menu-1 a:hover {
+    padding-left: 20px;
+}
+
 .sub-menu-1 li {
 	padding: 10px 16px;
 }
