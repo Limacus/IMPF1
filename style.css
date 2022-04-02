@@ -21,9 +21,6 @@
    display: flex;
    justify-content: space-between;
    width: 100%;
-   border-bottom: black;
-   border-style: solid;
-   border-width: 3px;
  }
 
  .site-navigation > ul{
