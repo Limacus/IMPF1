@@ -58,7 +58,7 @@
 	position: absolute;
 	font-family: f1;
 	font-weight: bold;
-	border-radius: 0px 10px;
+	border-radius: 0px 0px 10px 10px;
 	border-color: black;
 	border-width: 3px;
 	border-style: solid;
