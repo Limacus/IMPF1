@@ -16,7 +16,7 @@
    margin: 0px;
  }
 
- header {
+ .header {
    padding: 20px;
    background: var(--color-a); 
    display: flex;
