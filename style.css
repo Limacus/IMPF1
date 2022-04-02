@@ -24,9 +24,6 @@
    width: 100%;
  }
 
- .sub-menu-1{
-	 background-color: #00008B;
- }
  .site-navigation > ul{
    display: flex;
  }
@@ -62,7 +59,7 @@
 	padding: 0;
 	display: none;
 	position: absolute;
-	background: #cccccc;
+	background-color: #00008B;
 	font-family: f1;
 	font-weight: bold;
 }
