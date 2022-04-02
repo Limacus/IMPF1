@@ -62,8 +62,9 @@
 	background-color: #00008B;
 	font-family: f1;
 	font-weight: bold;
-	border-radius: 4px;
+	border-radius: 10px;
 	border-color: black;
+	border-width: 2px;
 }
 
 .sub-menu-1 li {
