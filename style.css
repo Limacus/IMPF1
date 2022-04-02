@@ -67,7 +67,7 @@
 
 .sub-menu-1 a {
 	color: #fff;
-  transition: .25s ease;
+  transition: .25s ease padding-left;
   background: #333;
   border-bottom: 1px solid rgba(255,255,255,0.25);
 }
