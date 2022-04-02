@@ -69,3 +69,7 @@
 :root .light {
   --color-a: #ccc;
 }
+
+.header li a {
+	font-size: 18px;
+}
