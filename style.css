@@ -36,6 +36,9 @@
 	position: relative;
 	font-family: f1;
 	font-weight: bold;
+}
+
+.main-menu a {
 	color: white;
 	text-decoration: none;
 }
@@ -101,4 +104,9 @@
   .test-2 {
 	  font-family: f1;
 	  font-weight: bold;
+  }
+
+  * {
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
   }
