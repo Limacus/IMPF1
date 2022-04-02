@@ -21,6 +21,7 @@
    background: var(--color-a); 
    display: flex;
    justify-content: space-between;
+   width: 100%;
  }
 
  header {
