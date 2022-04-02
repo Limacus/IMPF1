@@ -85,7 +85,7 @@
 	cursor: pointer;
 	display: block;
 	padding: 20px 16px;
-
+	line-height: 27px;
 }
 
 @font-face {
