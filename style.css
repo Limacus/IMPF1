@@ -3,7 +3,7 @@
   }
 
 .skip-link {
-    transform: translateY(-100%);
+    transform: translateY(-1000%);
     position: absolute;
     left: 50%;
  }
