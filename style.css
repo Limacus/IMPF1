@@ -24,6 +24,9 @@
    width: 100%;
  }
 
+ .sub-menu-1{
+	 background: #00008B;
+ }
  .site-navigation > ul{
    display: flex;
  }
