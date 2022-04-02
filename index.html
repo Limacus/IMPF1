@@ -2,14 +2,14 @@
 <html>
     <head>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script>
+          $(document).ready( function() {
+              $("#header").load("header.html")
+          });
+      </script>
     </head>
     <body>
         <div id="header"></div>
-        <script>
-            $(document).ready( function() {
-                $("#header").load("header.html")
-            });
-        </script>
         <a class="skip-link screen-reader-text" href="#site-navigation">Skip to navigation</a>
         <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
     </body>
