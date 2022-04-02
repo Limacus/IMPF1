@@ -24,13 +24,6 @@
    width: 100%;
  }
 
- header {
-	padding: 20px;
-	background: var(--color-a); 
-	display: flex;
-	justify-content: space-between;
- }
-
  .site-navigation > ul{
    display: flex;
  }
