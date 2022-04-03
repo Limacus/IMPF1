@@ -2,17 +2,9 @@
 <html>
     <head>
       <link rel="stylesheet" href="style.css">  
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    </head>
+      <script src="scripts.js"></script>
     <body>
       <header>
-        <div class="header" id="header">
-        <script>
-          $(document).ready( function () {
-              $("#header").load("header.html")
-          });
-      </script>
-      </div>
       </header>
       <div class="wrapper">
       <p class="test-1">What a cahd lobstahrin’ dinnahbucket windah bendah dinnahbucket slower than molasses going uphill in January some cunnin over t’, numb Bah Hahbah Outta Staydahs tunk scrod native, nummah flatlandas railed ’em hahd tellin’ not knowin’ unthaw, ‘Roostik Ahcadiuh over t’ cah yow uns Bean’s fish chowdah anuthah, Sundee ayuh wicked pissah, wee bit nippy Katahdin Jo-Jeezly dingy stove up.
